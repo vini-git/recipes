@@ -1,6 +1,10 @@
 # Orange flavoured Chutney Pudi
 ## Overview
 
+Chutney powder is a dry chutney recipe which is prepared with urad dal,
+curryleaves,hing etc.It is served with dosa,rice with ghee,idli. 
+These are called as life savers and can be used as replacement of chutney. 
+
 ## Ingredients
 ![Ready to serve](pics/ingredients.jpg)
 
@@ -25,4 +29,20 @@ Jeera |2tbsp
 
 ## Preparation
 
-### Pictures
+1.  Dry roast the groundnut seeds,til, grated coconut separately and remove it on one plate 
+![preparation1](pics/pic11.jpg)
+![preparation2](pics/pic12.jpg)
+
+1.	Take a kadai add 3 tbsp of oil and switch on the gas. Allow the oil to heat, then add Bengal gram, urad dal, curry leaves,jeera, dried orange skin ,tamarind and remove it on the same plate.
+![preparation3](pics/pic2.jpg)
+![preparation3](pics/pic21.jpg)
+![preparation3](pics/pic22.jpg)
+
+1.	Then mix the remaining ingredients (haldipowder,jaggery,chillipowder,chickpeas,hing, salt).
+![preparation4](pics/pic3.jpg)
+
+
+1.	Mix all the ingredients well and grind it in fine powder.
+![preparation5](pics/pic4.jpg)
+1.	Allow it to cool and store it in tight container . Serve it with chapati, dosa etc.
+
