@@ -42,7 +42,7 @@ Jeera |2tbsp
 ![preparation4](pics/pic3.jpg)
 
 
-1.	Mix all the ingredients well and grind it in fine powder.
+1.	Mix all the ingredients well and grind it into fine powder.
 ![preparation5](pics/pic4.jpg)
 1.	Allow it to cool and store it in tight container . Serve it with chapati, dosa etc.
 
